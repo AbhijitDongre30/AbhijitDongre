@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Abhijit Dongre</h1>
 <h3 align="center">A Senior Software Developer who loves solving tricky problems with code.</h3>
 
